@@ -1,2 +1,0 @@
-# Sulim-vpn
-Vpn
