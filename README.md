@@ -24,10 +24,3 @@ vless://9abf9451-dac0-4403-ae33-16433244807c@51.250.76.198:8443?security=reality
 
 vless://9abf9451-dac0-4403-ae33-16433244807c@51.250.76.198:8443?security=reality&encryption=none&pbk=3e-FjUV-nyaKq8pAvJ5jGa5gZMIK6_bN-xwijYlRbwM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=e5fa9569c4d0cb5e#%F0%9F%87%A9%F0%9F%87%AA%20%D0%92%D1%81%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%232
 
-https://ru.tgflovv.ru/9XsfsGHjsa9Ct0WyXmh/b75531c3-9c0d-4bd7-8871-86266b231722/#adamvpn
-
-https://sub.memeplanet.org/sub/edda1850-61c3-4a75-aa46-7b5e553ae725
-
-https://de.vpn.tgflovv.ru/nm4cYxIzEFEwvbnvo2bpaChEUgYIv8/b75531c3-9c0d-4bd7-8871-86266b231722/#adamvpn
-
-https://cyphervpn.pro/sub/700699d6-fad1-11f0-b3e3-0242ac110002
