@@ -1,4 +1,4 @@
-vless://66df63d3-2798-4ae6-81a1-90422de64992@37.139.35.3:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=3e-FjUV-nyaKq8pAvJ5jGa5gZMIK6_bN-xwijYlRbwM&sid=e5fa9569c4d0cb5e&type=tcp#🇷🇺%20Антизаглушка%20№1
+vless://66df63d3-2798-4ae6-81a1-90422de64992@37.139.35.3:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=3e-FjUV-nyaKq8pAvJ5jGa5gZMIK6_bN-xwijYlRbwM&sid=e5fa9569c4d0cb5e&type=tcp#🇷🇺Антизаглушка №1
 
 
 vless://66df63d3-2798-4ae6-81a1-90422de64992@217.16.24.64:666?type=tcp&security=reality&sni=vk.com&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=a1b2c3d4e5f67890&flow=xtls-rprx-vision&encryption=none#🇷🇺Антизаглушка №2
