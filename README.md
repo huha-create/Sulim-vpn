@@ -9,7 +9,7 @@ vless://66df63d3-2798-4ae6-81a1-90422de64992@frankfurt-1.bexum.fun:8443?type=tcp
 
 vless://79864eb9-79c3-4a07-9520-0ddd3985e15c@max4.skystreamgame.com:443?security=reality&encryption=none&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max4.skystreamgame.com&sid=6d6f13013d3e1d0c#🇰🇷 Обход Япония №4
 
-vless://e7349a40-05c5-11f1-ba9e-0242ac110002@de3.cyphervpn.pro:443?security=reality&encryption=none&pbk=chS_1RYmVkH49CQWAw1z_rRT3u_6BZCzEMK7I_iBuFk&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&sni=de3.cyphervpn.pro&sid=5bfa0c#🇱🇷 Обход Америка №5
+vless://a5311abf-0f2c-4239-8fa6-da45c5d8c3cf@144.31.248.216:8443?security=reality&encryption=none&pbk=-e5wReDbPj_HAjgxGWiSl2aGoq-pJOgeJs5aBbLttz0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=46122211049ad30f#🇵🇰 Обход Саудия №5
 
 vless://239ac661-ef9d-408d-892d-7eabd7a68abb@litva.fluxevpn.ru:8443?security=reality&encryption=none&pbk=EUJQeYjLR3WY8bKDPVHsSZ_V_xOSmb6dxhqG9k-EqCY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=wikihow.com&sid=96d0a6e8a6c0d73a#🇹🇷 Обход Турция №6
 
