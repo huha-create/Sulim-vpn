@@ -2,17 +2,17 @@
 
 vless://66df63d3-2798-4ae6-81a1-90422de64992@de-bex-1.bexum.fun:443?type=tcp&security=reality&sni=de-bex-1.bexum.fun&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=68abb912e89c95bd&flow=xtls-rprx-vision&fp=randomized&encryption=none#🇩🇪 Обход Германия №1
 vless://66df63d3-2798-4ae6-81a1-90422de64992@de1.bexum.fun:8443?type=tcp&security=reality&sni=google.com&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=e5fa9569c4d0cb5e&flow=xtls-rprx-vision&encryption=none#🇩🇪 Обход Германия №2
-vless://66df63d3-2798-4ae6-81a1-90422de64992@frankfurt-1.bexum.fun:8443?type=tcp&security=reality&sni=google.com&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=e5fa9569c4d0cb5e&flow=xtls-rprx-vision&encryption=none#🇩🇪 Обход Германия №3
+vless://66df63d3-2798-4ae6-81a1-90422de64992@frankfurt-1.bexum.fun:8443?type=tcp&security=reality&sni=google.com&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=e5fa9569c4d0cb5e&flow=xtls-rprx-vision&encryption=none#🇫🇷 Обход Франция№3
 
-vless://79864eb9-79c3-4a07-9520-0ddd3985e15c@max4.skystreamgame.com:443?security=reality&encryption=none&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max4.skystreamgame.com&sid=6d6f13013d3e1d0c#🇰🇷 Обход Япония №4
+vless://e3864be5-4667-4e66-a4fa-9ef241c83593@fast113.visi.rip:443?security=reality&encryption=none&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gazprom.hutsharing.com&sid=fd#🇱🇷 Обход США №4
 
 vless://a5311abf-0f2c-4239-8fa6-da45c5d8c3cf@144.31.248.216:8443?security=reality&encryption=none&pbk=-e5wReDbPj_HAjgxGWiSl2aGoq-pJOgeJs5aBbLttz0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=46122211049ad30f#🇵🇰 Обход Саудия №5
 
-vless://239ac661-ef9d-408d-892d-7eabd7a68abb@litva.fluxevpn.ru:8443?security=reality&encryption=none&pbk=EUJQeYjLR3WY8bKDPVHsSZ_V_xOSmb6dxhqG9k-EqCY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=wikihow.com&sid=96d0a6e8a6c0d73a#🇹🇷 Обход Турция №6
+vless://e3864be5-4667-4e66-a4fa-9ef241c83593@sber88.hutsharing.com:443?security=reality&encryption=none&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gazprom.hutsharing.com&sid=fd#🇹🇷 Обход Турция №6
 
 vless://66df63d3-2798-4ae6-81a1-90422de64992@nl1.bexum.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl1.bexum.fun&fp=randomized&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=f5781bd8af7dbaf6&type=tcp&headerType=none#🇳🇱 Обход  Нидерланды №7
 
-vless://4c2b4bf1-bc1e-4f75-8eed-0dd027d0d343@twru1.vpnreal.ru:8443?security=reality&encryption=none&pbk=xUBjC2vNXBrDnJ3rVvQl2CYPvugp3VeVC5NN9ukRojU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=e3ebde1f3c9c2b7c#🇵🇼 Обход Казахстан №8
+vless://e3864be5-4667-4e66-a4fa-9ef241c83593@83814729441772311685.sber.roscomsosal.de:22842?security=reality&encryption=none&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gazprom.hutsharing.com&sid=fd#🇵🇼 Обход Казахстан №8
 
 vless://50b5d92c-7ca3-4895-845d-c0e6036315be@poland.youtuber-vps.com:443?security=reality&encryption=none&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=poland.youtuber-vps.com&sid=b95d09fc94955ba4#🇵🇱 Обход Польша №9
 
