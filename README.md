@@ -28,7 +28,8 @@ vless://9cbbb8e0-9510-406c-b972-be936cc7e7e6@ycone.mcufa.pro:47018?flow=xtls-rpr
 vless://0337f177-25a8-4230-af10-cf37580e0817@185.40.153.210:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=yandex.net&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇷🇺 Беспилотная опасность №14📶
 vless://1c31c8eb-6d3d-4c46-a0e8-9e7715f92386@ru.tgflovv.ru:443?security=reality&encryption=none&alpn=http/1.1&pbk=dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6fb05d1f3a#🇷🇺 Беспилотная опасность №15📶
 vless://1c31c8eb-6d3d-4c46-a0e8-9e7715f92386@ru.tgflovv.ru:443?security=reality&encryption=none&alpn=http/1.1&pbk=dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=6fb05d1f3a#🇷🇺 Беспилотная опасность №16📶
-vless://b6ab491f-b819-40d7-a1e5-c7c168c4a351@185.130.114.215:443?security=reality&encryption=none&pbk=5BMvIPwC1F4_VjmWu0kwA-LI4Ic2xQ0hZH3g57SAvzc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=target.vk.ru&sid=3fb8b93277e02d9d#🇷🇺 Беспилотная опасность №17📶
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZUndkOTJxejlaQmNXYXZSTDY4RU1uZDgyOURCVzZqcQ==@bs6.youtuber-vps.com:8388#🇷🇺 Беспилотная опасность №17📶
 
 vless://b6ab491f-b819-40d7-a1e5-c7c168c4a351@185.130.114.215:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=vk.ru&pbk=5BMvIPwC1F4_VjmWu0kwA-LI4Ic2xQ0hZH3g57SAvzc&sid=3fb8b93277e02d9d#🇷🇺 Беспилотная опасность №18📶
 
