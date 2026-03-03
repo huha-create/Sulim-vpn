@@ -20,7 +20,8 @@ vless://50b5d92c-7ca3-4895-845d-c0e6036315be@poland.youtuber-vps.com:443?securit
 
 vless://50b5d92c-7ca3-4895-845d-c0e6036315be@lv.youtuber-vps.com:443?security=reality&encryption=none&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=lv.youtuber-vps.com&sid=b95d09fc94955ba4#🇱🇻 Обход Латвия №10
 
-vless://66df63d3-2798-4ae6-81a1-90422de64992@217.16.24.64:666?type=tcp&security=reality&sni=vk.com&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=a1b2c3d4e5f67890&flow=xtls-rprx-vision&encryption=none#🇷🇺 Беспилотная опасность №11📶
+trojan://bQTLp0uCdjHHHTYHNrJ6NWdJ0bbF72@37.139.34.175:8443?type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=VoThhJ_pOwFXUCjB8DCpK3cM1ymeZKV4fBmo6audKVQ&sid=9c2378562188c3cb&spx=/#🇷🇺 Беспилотная опасность №11📶
+
 vless://b6ab491f-b819-40d7-a1e5-c7c168c4a351@s1-api.qeunso.com:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=shiftline.xyz&pbk=sBk_P1d8a9q1R6U4HsXH6tumSnL2ron0UJsB1SCTZwo&sid=e896a919e26a40a3#🇷🇺 Беспилотная опасность №12📶
 
 vless://9cbbb8e0-9510-406c-b972-be936cc7e7e6@ycone.mcufa.pro:47018?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=8QRITg7vnAG05KsxVVK4X1OIeVdXQ_NGBLmIbx3NpTE#🇷🇺 Беспилотная опасность №13📶
