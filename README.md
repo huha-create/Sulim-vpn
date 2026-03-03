@@ -31,7 +31,7 @@ vless://1c31c8eb-6d3d-4c46-a0e8-9e7715f92386@ru.tgflovv.ru:443?security=reality&
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZUndkOTJxejlaQmNXYXZSTDY4RU1uZDgyOURCVzZqcQ==@bs6.youtuber-vps.com:8388#🇷🇺 Беспилотная опасность №17📶
 
-vless://4fd0bf75-330d-44a3-9e9b-df1124f514ce@bs8.youtuber-vps.com:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ya.ru&pbk=98GUVpWw96tdeGtjIOHXmkklpeA72qQQJoxxyfJ1yTo&sid=01234567#🇷🇺 Беспилотная опасность №18📶
+vless://9abf9451-dac0-4403-ae33-16433244807c@95.163.215.121:666?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=eh.vk.com&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=a1b2c3d4e5f67890#🇷🇺 Беспилотная опасность №18📶
 
 vless://4fd0bf75-330d-44a3-9e9b-df1124f514ce@bs9.youtuber-vps.com:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ya.ru&pbk=98GUVpWw96tdeGtjIOHXmkklpeA72qQQJoxxyfJ1yTo&sid=6ba8517#🇷🇺 Беспилотная опасность №19📶
 
