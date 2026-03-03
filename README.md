@@ -1,6 +1,6 @@
 #profile-title: 𝐒𝐮𝐥𝐢𝐦 𝐕𝐏𝐍🏳️
 
-#profile-update-interval: 6
+#profile-update-interval: 1
 
 vless://66df63d3-2798-4ae6-81a1-90422de64992@de-bex-1.bexum.fun:443?type=tcp&security=reality&sni=de-bex-1.bexum.fun&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=68abb912e89c95bd&flow=xtls-rprx-vision&fp=randomized&encryption=none#🇩🇪 Обход Германия №1
 vless://66df63d3-2798-4ae6-81a1-90422de64992@de1.bexum.fun:8443?type=tcp&security=reality&sni=google.com&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=e5fa9569c4d0cb5e&flow=xtls-rprx-vision&encryption=none#🇩🇪 Обход Германия №2
