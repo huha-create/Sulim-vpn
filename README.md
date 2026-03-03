@@ -43,4 +43,4 @@ vless://6c8e6d2f-1127-4219-a871-ec1360e2b82f@185.130.114.215:8443?mode=gun&secur
 
 vless://9abf9451-dac0-4403-ae33-16433244807c@95.163.208.188:8443?security=reality&encryption=none&pbk=3e-FjUV-nyaKq8pAvJ5jGa5gZMIK6_bN-xwijYlRbwM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=e5fa9569c4d0cb5e#🇷🇺 Беспилотная опасность №23📶
 
-trojan://bQTLp0uCdjHHHTYHNrJ6NWdJ0bbF72@37.139.34.175:8443?security=reality&pbk=VoThhJ_pOwFXUCjB8DCpK3cM1ymeZKV4fBmo6audKVQ&headerType=none&spx=%2F&type=tcp&sni=max.ru&sid=9c2378562188c3cb#🇷🇺 Беспилотная опасность №24📶vless://9abf9451-dac0-4403-ae33-16433244807c@95.163.215.121:666?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=eh.vk.com&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=a1b2c3d4e5f67890#🇷🇺 Беспилотная опасность №24📶
+vless://9abf9451-dac0-4403-ae33-16433244807c@95.163.215.121:666?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=eh.vk.com&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=a1b2c3d4e5f67890#🇷🇺 Беспилотная опасность №24📶
