@@ -20,16 +20,17 @@ vless://50b5d92c-7ca3-4895-845d-c0e6036315be@poland.youtuber-vps.com:443?securit
 
 vless://50b5d92c-7ca3-4895-845d-c0e6036315be@lv.youtuber-vps.com:443?security=reality&encryption=none&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=lv.youtuber-vps.com&sid=b95d09fc94955ba4#🇱🇻 Обход Латвия №10
 
-vless://4fd0bf75-330d-44a3-9e9b-df1124f514ce@bs7.youtuber-vps.com:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ya.ru&pbk=98GUVpWw96tdeGtjIOHXmkklpeA72qQQJoxxyfJ1yTo&sid=aa55aa55#🇷🇺 Беспилотная опасность №11📶
+vless://f08da222-6a74-4ef9-931c-463ddb7fc810@185.40.153.210:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=chat.deepseek.com&sid=be0ce047#🇷🇺 Беспилотная опасность №12📶
 
-vless://b6ab491f-b819-40d7-a1e5-c7c168c4a351@s1-api.qeunso.com:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=shiftline.xyz&pbk=sBk_P1d8a9q1R6U4HsXH6tumSnL2ron0UJsB1SCTZwo&sid=e896a919e26a40a3#🇷🇺 Беспилотная опасность №12📶
+vless://e88e623b-f88a-4260-92e1-b4234121575d@51.250.75.255:8081?security=reality&encryption=none&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=eh.vk.com&sid=425ba80cd1a821a8#🇷🇺 Беспилотная опасность №13📶
 
-vless://9abf9451-dac0-4403-ae33-16433244807c@95.163.211.92:8443?security=reality&encryption=none&pbk=3e-FjUV-nyaKq8pAvJ5jGa5gZMIK6_bN-xwijYlRbwM&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=e5fa9569c4d0cb5e#🇷🇺 Беспилотная опасность №13📶
+vless://e88e623b-f88a-4260-92e1-b4234121575d@51.250.5.6:8081?security=reality&encryption=none&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=ads.x5.ru&sid=425ba80cd1a821a8#🇷🇺 Беспилотная опасность №14📶
 
-vless://6c8e6d2f-1127-4219-a871-ec1360e2b82f@95.163.208.222:8443?mode=multi&security=reality&encryption=none&authority=&pbk=pkwQ6xk56XA0btFaqVOg6u49On2uoavohsxZt9L37Vk&fp=qq&allowinsecure=0&type=grpc&serviceName=xyz&sni=eh.vk.ru&sid=6b095878b6c39835#🇷🇺 Беспилотная опасность №14📶
+vless://e88e623b-f88a-4260-92e1-b4234121575d@89.208.87.155:443?security=reality&encryption=none&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=eh.vk.com&sid=425ba80cd1a821a8#🇷🇺 Беспилотная опасность №15📶
 
-vless://1c31c8eb-6d3d-4c46-a0e8-9e7715f92386@ru.tgflovv.ru:443?security=reality&encryption=none&alpn=http/1.1&pbk=dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6fb05d1f3a#🇷🇺 Беспилотная опасность №15📶
-vless://1c31c8eb-6d3d-4c46-a0e8-9e7715f92386@ru.tgflovv.ru:443?security=reality&encryption=none&alpn=http/1.1&pbk=dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=6fb05d1f3a#🇷🇺 Беспилотная опасность №16📶
+vless://9b980885-17e3-4148-9219-b61906e046fd@ruwl.kubservice.icu:443?security=reality&encryption=none&pbk=d3Cfs7vkov8-PJZz1ZYzqJyh4M0aimJofccCRxZc3XQ&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇷🇺 Беспилотная опасность №16📶
+
+vless://62732d71-ed6e-4b02-8827-370fe994933b@vkon293.chert.ca:443?security=reality&encryption=none&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gazprom.hutsharing.com&sid=fd#🇷🇺 Беспилотная опасность №16📶
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZUndkOTJxejlaQmNXYXZSTDY4RU1uZDgyOURCVzZqcQ==@bs6.youtuber-vps.com:8388#🇷🇺 Беспилотная опасность №17📶
 
