@@ -28,7 +28,10 @@
 
 #profile-prefer-ipv4: true
 
-#auto-continue: truevless://8aa0a93e-cff6-4f77-bd88-deb8413114d8@hole.vz-or.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128&type=tcp#🇵🇱 АНТИЗАГЛУШКА ⚡ 1
+#auto-continue: true
+
+
+vless://8aa0a93e-cff6-4f77-bd88-deb8413114d8@hole.vz-or.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128&type=tcp#🇵🇱 АНТИЗАГЛУШКА ⚡ 1
 vless://8aa0a93e-cff6-4f77-bd88-deb8413114d8@hole.vz-or.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128&type=tcp#🇵🇱 АНТИЗАГЛУШКА ⚡ 2
 vless://8aa0a93e-cff6-4f77-bd88-deb8413114d8@hole.vz-or.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128&type=tcp#🇵🇱 АНТИЗАГЛУШКА ⚡ 3
 vless://adc1d994-077e-43f9-857b-36da5f4ef939@hole.datanode-internal.net:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=qq&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128&type=tcp#🇵🇱 АНТИЗАГЛУШКА ⚡ 4
