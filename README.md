@@ -1,8 +1,34 @@
-#profile-title: 𝐒𝐮𝐥𝐢𝐦 𝐕𝐏𝐍🏳️
+#profile-title:𝐒𝐮𝐥𝐢𝐦 𝐕𝐏𝐍🏳️
 
-#profile-update-interval: 1
+#profile-update-interval: 12
 
-vless://8aa0a93e-cff6-4f77-bd88-deb8413114d8@hole.vz-or.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128&type=tcp#🇵🇱 АНТИЗАГЛУШКА ⚡ 1
+#profile-subscription-url: https://raw.githubusercontent.com/huha-create/Sulim-vpn/main/README.md
+
+#support-url: https://wa.me/79639864491
+
+#profile-web-page-url: https://wa.me/79639864491
+
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+#profile-notice: ━━━━━━━━━━━━━━━\n 𝐒𝐮𝐥𝐢𝐦 𝐕𝐏𝐍🏳️ \n━━━━━━━━━━━━━━━\n🛡 Статус: Активен\n🚀 Трафик: Безлимитный\n⚡ Скорость: Максимальная\n━━━━━━━━━━━━━━━
+
+#profile-icon: https://share.google/Kl64QMcBQApgnH6aJ
+
+#profile-test-url: http://cp.cloudflare.com/generate_204
+
+#profile-test-interval: 300
+
+#profile-auto-switch: true
+
+#profile-allow-copy: false
+
+#profile-locked: true
+
+#profile-read-only: true
+
+#profile-prefer-ipv4: true
+
+#auto-continue: truevless://8aa0a93e-cff6-4f77-bd88-deb8413114d8@hole.vz-or.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128&type=tcp#🇵🇱 АНТИЗАГЛУШКА ⚡ 1
 vless://8aa0a93e-cff6-4f77-bd88-deb8413114d8@hole.vz-or.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128&type=tcp#🇵🇱 АНТИЗАГЛУШКА ⚡ 2
 vless://8aa0a93e-cff6-4f77-bd88-deb8413114d8@hole.vz-or.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128&type=tcp#🇵🇱 АНТИЗАГЛУШКА ⚡ 3
 vless://adc1d994-077e-43f9-857b-36da5f4ef939@hole.datanode-internal.net:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=qq&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128&type=tcp#🇵🇱 АНТИЗАГЛУШКА ⚡ 4
